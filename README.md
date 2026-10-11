@@ -1,4 +1,4 @@
-# Autonomous Cognitive Research Engine
+# Autonomous Cognitive Research Engine (project under progress - not complete)
 
 ## Overview
 The Autonomous Cognitive Research Engine is an intelligent system designed to automate multi-step information gathering, synthesis, and institutional knowledge management. Built to function as an autonomous digital analyst, the engine takes high-level research objectives, decomposes them into structured sub-tasks, gathers contextual findings, and synthesizes comprehensive research briefs.
